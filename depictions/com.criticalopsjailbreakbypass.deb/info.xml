@@ -1,0 +1,23 @@
+<package>
+	<id>com.criticalopsjailbreakbypass</id>
+	<name>Critical Ops Jailbreak Bypass</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<maxiOS></maxiOS>
+			<otherVersions></otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Simple yet effective jailbreak detection bypass for the game Critical Ops.</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change></change>
+	</changelog>
+	<links></links>
+</package>
