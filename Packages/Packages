@@ -1,6 +1,6 @@
 Package: com.criticalopsjailbreakbypass
 Version: 1.0
-Section: Tweaks
+Section: Game
 Maintainer: Pr3stigi0us 
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
@@ -10,4 +10,4 @@ MD5sum: b438724ed67063909cdd7732eb21c76b
 Description: Simple yet effective jailbreak detection bypass for the game Critical Ops.
 Name: Critical Ops Jailbreak Bypass
 Author: Pr3stigi0us 
-Depiction: https://iostweaks.github./iostweaks/depictions/?p=com.criticalopsjailbreakbypass
+Depiction: https://iostweaks.github.io/iostweaks/depictions/?p=com.criticalopsjailbreakbypass
