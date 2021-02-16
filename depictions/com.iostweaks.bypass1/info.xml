@@ -1,0 +1,44 @@
+<package>
+	<id>com.iostweaks.bypass1</id>
+	<name>Critical Ops Jailbreak Detection Bypass</name>
+	<version>1.01</version>
+	<compatibility>
+		<firmware>
+			<miniOS></miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Simple yet effective jailbreak detection bypass for the game Critical Ops.</shortDescription>
+	<descriptionlist>
+		<description>Fully bypassed the jailbreak detection.</description>
+		<description>Works on the newest game version (1.23.0).</description>
+		<description><![CDATA[
+		
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image></image>
+		</screenshot>		
+		<screenshot>
+			<description></description>
+			<image></image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>Initial release</change>
+		<change>Crash fixed</change>
+		<change></change>
+	</changelog>
+	<links>
+		<link>
+			<name>Feeling generous?</name>
+			<url></url>
+			<iconclass>fa fa-bitcoin</iconclass>
+		</link>
+	</links>
+</package>
