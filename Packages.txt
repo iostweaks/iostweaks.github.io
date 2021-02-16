@@ -2,7 +2,7 @@ Package: com.iostweaks.criticalopsjailbreakbypass
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: yourname <yourname@gmail.com>
-Filename: /var/mobile/iostweaks.github.io/debs
+Filename: debs//com.iostweaks.criticalopsjailbreakbypass.deb
 Size: 3628 
 Section: Bypasses
 Description: A flat and simple theme for Anemone.
