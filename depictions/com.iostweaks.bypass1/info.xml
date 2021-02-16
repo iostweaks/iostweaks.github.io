@@ -10,7 +10,7 @@
 	<dependencies>
 		<package>mobilesubstrate</package>
 	</dependencies>
-	<shortDescription>Simple yet effective jailbreak bypass for the game Critical Ops.</shortDescription>
+	<shortDescription>Simple yet effective jailbreak detection bypass for the game Critical Ops.</shortDescription>
 	<descriptionlist>
 		<description></description>
 		<description></description>
@@ -20,24 +20,24 @@
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>This is a description for screenshot 1. It's Cydia!</description>
-			<image>cydia.jpg</image>
+			<description></description>
+			<image></image>
 		</screenshot>		
 		<screenshot>
-			<description>This is a description for screenshot 2. It's another Cydia!</description>
-			<image>cydia.jpg</image>
+			<description></description>
+			<image></image>
 		</screenshot>		
 	</screenshots>
 	<changelog>
-		<change>Second release</change>
-		<change>It has feature 1</change>
-		<change>It has feature 2</change>
+		<change>Initial release</change>
+		<change>Updated to work on 1.23.0</change>
+		<change></change>
 	</changelog>
 	<links>
 		<link>
-			<name>/r/jailbreak</name>
+			<name>Buy me a coffee</name>
 			<url>https://www.reddit.com/r/jailbreak</url>
-			<iconclass>fa fa-reddit</iconclass>
+			<iconclass>fa fa-bitcoin</iconclass>
 		</link>
 	</links>
 </package>
