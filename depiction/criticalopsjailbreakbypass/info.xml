@@ -1,10 +1,10 @@
 <package>
-	<id>com.jianfengzhi.test</id>
-	<name>Test</name>
+	<id>com.criticalopsjailbreakbypass</id>
+	<name>Critical Ops Jailbreak Bypass</name>
 	<version>2.0</version>
 	<compatibility>
 		<firmware>
-			<miniOS>7.0</miniOS>
+			<miniOS></miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
@@ -20,7 +20,7 @@
 		<description>它有功能3</description>
 		<description><![CDATA[
 		你可以这样来添加大段文字,它可以识别HTML代码.<br/> 
-		还支持像这样的超链接 -><a href="https://lichongjia.github.io/">访问我的GitHub</a>
+		还支持像这样的超链接 -><a href="https://iostweaks.github.io/">访问我的GitHub</a>
 		]]>
 		</description>
 	</descriptionlist>
