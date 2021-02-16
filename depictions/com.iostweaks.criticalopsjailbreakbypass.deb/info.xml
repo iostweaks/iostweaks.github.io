@@ -1,22 +1,22 @@
 <package>
-	<id>com.iostweaks.criticalopsjailbreakbypass.deb</id>
-	<name>Critical Ops Jailbreak Bypass</name>
-	<version>1.0</version>
+	<id>com.iostweaks.criticalopsjailbreakbypass</id>
+	<name>Full Package</name>
+	<version>2.0.0-1</version>
 	<compatibility>
 		<firmware>
-			<miniOS></miniOS>
+			<miniOS>7.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package></package>
+		<package>mobilesubstrate</package>
 	</dependencies>
-	<shortDescription></shortDescription>
+	<shortDescription>This is a sample new package. Firmware should be greater than 7.0</shortDescription>
 	<descriptionlist>
-		<description>Simple yet effective jailbreak bypass in the game Critical Ops.</description>
-		<description></description>
+		<description>This is an package will full depictions.</description>
+		<description>It has more description lines.</description>
 		<description><![CDATA[
-		<br/> 
-		
+		You can also have<br/> 
+		a multi-line item.
 		]]>
 		</description>
 	</descriptionlist>
