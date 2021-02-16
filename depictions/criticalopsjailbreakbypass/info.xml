@@ -4,20 +4,39 @@
 	<version>1.0</version>
 	<compatibility>
 		<firmware>
-			<maxiOS></maxiOS>
-			<otherVersions></otherVersions>
-			<!--
-			for otherVersions, you can put either unsupported or unconfirmed
-			-->
+			<miniOS></miniOS>
 		</firmware>
 	</compatibility>
-	<dependencies></dependencies>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription></shortDescription>
 	<descriptionlist>
+		<description>Simple yet effective jailbreak detection bypass for the game Critical Ops.</description>
 		<description></description>
+		<description><
+		></description>
 	</descriptionlist>
-	<screenshots></screenshots>
+	<screenshots>
+		<screenshot>
+			<description>
+              <image></image>
+		</screenshot>		
+		<screenshot>
+			<description></description>
+			<image></image>
+		</screenshot>		
+	</screenshots>
 	<changelog>
-		<change>Initial release</change>
+		<change>Fully bypassed the detection in 1.23.0</change>
+		<change></change>
+		<change></change>
 	</changelog>
-	<links></links>
+	<links>
+		<link>
+			<name>Paypal</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-paypal</iconclass>
+		</link>
+	</links>
 </package>
